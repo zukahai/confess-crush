@@ -3,6 +3,14 @@
 
 ## <p align="center"> Hướng dẫn chi tiết </p>
 
+## Gồm 4 bước sau đây:
+[Bước 1: Đăng nhập Github](#bước-1-đăng-nhập-github) </br>
+[Bước 2: Fork project](#bước-2-fork-project) </br>
+[Bước 3: Chỉnh sửa trang web](#bước-3-chỉnh-sửa-web-theo-ý-của-bạn) </br>
+[Bước 4: Tạo trang web](#bước-4-tạo-trang-web) </br>
+
+<hr>
+
 ### Bước 1: Đăng nhập github
 Bạn phải có tài khoản github, nếu bạn chưa có hay đăng ký [Tại đây](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) </br>
 Sau khi đăng nhập bạn quay lại đây nhé, các bước tiếp theo vô cùng đơn giản thôi.
