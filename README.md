@@ -27,3 +27,19 @@ Sau khi chỉnh sửa xong bạn nhớ ấn và0 đây để lưu lại nhé.
 <p align="center"> <img src="/imagesGithub/4.png" alt="support" /> </p>
 
 ### Bước 4: Tạo trang web
+Để có thể xem cũng như đưa trang web của bạn cho người khác xem, bạn cần làm như sau. </br>
+Đầu tiên chuyển sang phần setting bằng cách bấm và setting như hình dưới:
+<p align="center"> <img src="/imagesGithub/5.png" alt="setting" /> </p>
+
+Tại đó hãy chọn mục pages
+<p align="center"> <img src="/imagesGithub/6.png" alt="setting" /> </p>
+Tại mục branch chọn Main và bấm save để lưu lại:
+<p align="center"> <img src="/imagesGithub/7.png" alt="setting" /> </p>
+Lúc này đương link của bạn sẽ hiện lên tương tự như thế này.
+<p align="center"> <img src="/imagesGithub/8.png" alt="setting" /> </p>
+Bấm vào đường link, tại lại trang liên tục đến khi trang hoặc động nhé (Bạn cần chờ khoảng 2 phút) </br>
+Nếu bạn chờ lâu quá mà trang web không hoặc động bạn có thể thêm chữ index.html phía sau đương link như thế này:
+<p align="center"> <img src="/imagesGithub/9.png" alt="setting" /> </p>
+
+
+### <p align="center"> Chúc các bạn thành công </p>
