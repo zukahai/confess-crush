@@ -11,6 +11,7 @@ $(document).ready(function() {
 })
 
 function init() {
+    document.getElementById('titleWeb').innerHTML = CONFIG.titleWeb
     $('#title').text(CONFIG.title)
     $('#desc').text(CONFIG.desc)
     $('#yes').text(CONFIG.btnYes)
