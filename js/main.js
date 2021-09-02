@@ -63,9 +63,9 @@ init()
 
 var n = 0;
 $('#no').mousemove(function() {
-    if (n < 1)
+    if (Math.random() < 0.5 || n == 1)
         switchButton();
-    if (n > 1)
+    else
         moveButton();
     n++;
 });
