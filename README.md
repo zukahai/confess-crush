@@ -8,6 +8,7 @@
 [Bước 2: Fork project](#bước-2-fork-project) </br>
 [Bước 3: Chỉnh sửa trang web](#bước-3-chỉnh-sửa-web-theo-ý-của-bạn) </br>
 [Bước 4: Tạo trang web](#bước-4-tạo-trang-web) </br>
+[Video hướng dẫn](#video-hướng-dẫn) </br>
 
 <hr>
 
@@ -52,6 +53,8 @@ Nếu bạn chờ lâu quá mà trang web không hoặc động bạn có thể 
 ### <p align="center"> Chúc các bạn thành công </p>
 
 <hr>
-### Video hướng dẫn
+
+### <p align="center"> Video hướng dẫn </p>
 Các bạn vẫn chưa làm được à? có thể là bị sai ở một bước nào đó, xem video hướng dẫn để biết mình sai ở đâu nhé.
+[<p align="center"> <img src="/imagesGithub/video.png" alt="web" /> </p>](https://zukahai.github.io/Web-Music/)
 
