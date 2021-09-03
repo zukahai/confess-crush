@@ -8,7 +8,7 @@
 [Bước 2: Fork project](#bước-2-fork-project) </br>
 [Bước 3: Chỉnh sửa trang web](#bước-3-chỉnh-sửa-web-theo-ý-của-bạn) </br>
 [Bước 4: Tạo trang web](#bước-4-tạo-trang-web) </br>
-[Video hướng dẫn](#video-hướng-dẫn) </br>
+[Video hướng dẫn](#-video-hướng-dẫn-) </br>
 
 <hr>
 
