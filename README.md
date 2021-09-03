@@ -56,5 +56,5 @@ Nếu bạn chờ lâu quá mà trang web không hoặc động bạn có thể 
 
 ### <p align="center"> Video hướng dẫn </p>
 Các bạn vẫn chưa làm được à? có thể là bị sai ở một bước nào đó, xem video hướng dẫn để biết mình sai ở đâu nhé.
-[<p align="center"> <img src="/imagesGithub/video.png" alt="web" /> </p>](https://zukahai.github.io/Web-Music/)
+[<p align="center"> <img src="/imagesGithub/video.png" alt="web" /> </p>](https://www.youtube.com/watch?v=RvmmB8euJv4)
 
