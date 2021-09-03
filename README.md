@@ -1,6 +1,10 @@
 ## <p align="center"> Tạo một trang web tỏ tình không cần code </p>
 <p align="center"> <img src="/imagesGithub/github.png" alt="bg" /> </p>
 
+### [<p align="center"> Ấn vào đây để xem kết quả tương tự của bạn </p>](https://zukahai.github.io/Confess-Crush/)
+
+<hr>
+
 ## <p align="center"> Hướng dẫn chi tiết </p>
 
 ## Gồm 4 bước sau đây:
