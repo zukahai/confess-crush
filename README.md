@@ -54,11 +54,10 @@ Bấm vào đường link, tại lại trang liên tục đến khi trang hoặc
 Nếu bạn chờ lâu quá mà trang web không hoặc động bạn có thể thêm chữ index.html phía sau đương link như thế này:
 <p align="center"> <img src="/imagesGithub/9.png" alt="setting" /> </p>
 
-### <p align="center"> Chúc các bạn thành công </p>
-
 <hr>
 
 ### <p align="center"> Video hướng dẫn </p>
 Các bạn vẫn chưa làm được à? có thể là bị sai ở một bước nào đó, xem video hướng dẫn để biết mình sai ở đâu nhé.
 [<p align="center"> <img src="/imagesGithub/video.png" alt="web" /> </p>](https://www.youtube.com/watch?v=RvmmB8euJv4)
 
+### <p align="center">😘💔💙💓💝💟💑 Chúc các bạn thành công 💚💗💘💖💞💋👄</p>
