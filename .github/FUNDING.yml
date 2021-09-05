@@ -1,11 +1,6 @@
 # These are supported funding model platforms
 
 github: [zukahai, haizukon, haizuka2712]
-patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
-ko_fi: [zukahai]
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
 liberapay: [zukahai]
 issuehunt: [zukahai]
 otechie: [zukahai]
