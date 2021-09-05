@@ -1,6 +1,10 @@
 ## <p align="center"> Tạo một trang web tỏ tình không cần code </p>
 <p align="center"> <img src="/imagesGithub/github.png" alt="bg" /> </p>
 
+### [<p align="center"> Ấn vào đây để xem kết quả tương tự của bạn </p>](https://zukahai.github.io/Confess-Crush/)
+
+<hr>
+
 ## <p align="center"> Hướng dẫn chi tiết </p>
 
 ## Gồm 4 bước sau đây:
@@ -8,6 +12,7 @@
 [Bước 2: Fork project](#bước-2-fork-project) </br>
 [Bước 3: Chỉnh sửa trang web](#bước-3-chỉnh-sửa-web-theo-ý-của-bạn) </br>
 [Bước 4: Tạo trang web](#bước-4-tạo-trang-web) </br>
+[Video hướng dẫn](#-video-hướng-dẫn-) </br>
 
 <hr>
 
@@ -49,5 +54,10 @@ Bấm vào đường link, tại lại trang liên tục đến khi trang hoặc
 Nếu bạn chờ lâu quá mà trang web không hoặc động bạn có thể thêm chữ index.html phía sau đương link như thế này:
 <p align="center"> <img src="/imagesGithub/9.png" alt="setting" /> </p>
 
+<hr>
 
-### <p align="center"> Chúc các bạn thành công </p>
+### <p align="center"> Video hướng dẫn </p>
+Các bạn vẫn chưa làm được à? có thể là bị sai ở một bước nào đó, xem video hướng dẫn để biết mình sai ở đâu nhé.
+[<p align="center"> <img src="/imagesGithub/video.png" alt="web" /> </p>](https://www.youtube.com/watch?v=RvmmB8euJv4)
+
+### <p align="center">😘💔💙💓💝💟💑 Chúc các bạn thành công 💚💗💘💖💞💋👄</p>
