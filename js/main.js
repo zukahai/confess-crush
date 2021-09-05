@@ -16,6 +16,15 @@ function init() {
     $('#desc').text(CONFIG.desc)
     $('#yes').text(CONFIG.btnYes)
     $('#no').text(CONFIG.btnNo)
+
+    var xYes = (0.9 * $(window).width() - $('#yes').width() - $('#no').width()) / 2;
+    var xNo = xYes + $('#yes').width() + 0.1 * $(window).width();
+    var y = 0.75 * $(window).height();
+    $('#yes').css("left", xYes);
+    $('#yes').css("top", y);
+
+    $('#no').css("left", xNo);
+    $('#no').css("top", y);
 }
 
 function firstQuestion() {
@@ -47,7 +56,7 @@ function switchButton() {
     $('#yes').css("left", leftNo);
     $('#yes').css("top", topNO);
 }
-// move random button póition
+// move random button position
 function moveButton() {
     var audio = new Audio('sound/Swish1.mp3');
     audio.play();
