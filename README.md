@@ -29,13 +29,13 @@ Tại trang này hãy click vào 2 biểu tượng như hình bên dưới.
 
 ### Bước 3: Chỉnh sửa web theo ý của bạn.
 Để chỉnh sửa trong web theo ý của bạn, bản cần chỉnh sửa file config.js </br>
-Click vào chữ config.js 2 lần để mở file đó lên.
+Click vào chữ config.js để mở file đó lên.
 <p align="center"> <img src="/imagesGithub/2.png" alt="edit config.js" /> </p>
 Tiếp tục click vào biểu tượng bút chì như bên dưới để chỉnh sửa file này.
 <p align="center"> <img src="/imagesGithub/3.png" alt="support" /> </p>
 
 Đến đây bạn hãy chỉnh sửa thông tin trong file đó theo ý của bạn. </br>
-Bạn có thể chỉnh sửa tên crush của bạn, chỉnh sửa đương link thành link message của bạn </br>
+Bạn có thể chỉnh sửa tên website, tên crush của bạn, chỉnh sửa đương link thành link message của bạn, ... </br>
 Sau khi chỉnh sửa xong bạn nhớ ấn và0 đây để lưu lại nhé.
 
 <p align="center"> <img src="/imagesGithub/4.png" alt="support" /> </p>
