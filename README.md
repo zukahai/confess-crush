@@ -13,7 +13,8 @@
 [Bước 3: Chỉnh sửa trang web](#bước-3-chỉnh-sửa-web-theo-ý-của-bạn) </br>
 [Bước 4: Tạo trang web](#bước-4-tạo-trang-web) </br>
 [Video hướng dẫn](#-video-hướng-dẫn-) </br>
-
+Lưu ý: Nếu bạn đang sử dụng điện thoại, hãy mở hướng dẫn này ở dưới dạng cho máy tính bằng cách mở trang web này trong trình duyệt chorme và làm theo hình bên dưới:
+<p align="center"> <img src="/imagesGithub/mobile.png" alt="bg" /> </p>
 <hr>
 
 ### Bước 1: Đăng nhập github
