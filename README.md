@@ -13,9 +13,9 @@
 * Video Hướng dẫn
   * [Video hướng dẫn](#-video-hướng-dẫn-)
 * Xem sản phẩm
-  * [Xem sản phẩm]
+  * [Xem sản phẩm](#-ấn-vào-đây-để-xem-kết-quả-tương-tự-của-bạn-)
 * Sản phẩm và câu hỏi
-  * [Câu hỏi và phản hồi]()
+  * [Câu hỏi và phản hồi](https://github.com/zukahai/Confess-Crush/issues/new)
 
 Lưu ý: Nếu bạn đang sử dụng điện thoại thì bạn cần mở hướng dẫn này ở dưới dạng cho máy tính bằng cách mở trang web này trong trình duyệt chorme và làm theo hình bên dưới:
 <p align="center"> <img src="/imagesGithub/mobile.png" alt="bg" /> </p>
@@ -71,7 +71,7 @@ Các bạn vẫn chưa làm được à? có thể là bị sai ở một bướ
 
 ### <p align="center"> Câu hỏi và phản hồi </p>
 
-Nếu bạn vẫn chưa làm được hoặc hoặc chưa biết mình làm sai ở đây hãy nhấn vào hình bên dưới hoặc nhân [Tại đây]()
+Nếu bạn vẫn chưa làm được hoặc hoặc chưa biết mình làm sai ở đây hãy nhấn vào hình bên dưới hoặc nhân [Tại đây](https://github.com/zukahai/Confess-Crush/issues/new)
 [<p align="center"> <img src="/img/logi.gif" alt="web" /> </p>](https://www.youtube.com/watch?v=RvmmB8euJv4)
 
 ### <p align="center">😘💔💙💓💝💟💑 Chúc các bạn thành công 💚💗💘💖💞💋👄</p>
