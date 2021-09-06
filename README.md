@@ -1,18 +1,22 @@
 ## <p align="center"> Tạo một trang web tỏ tình không cần code </p>
 <p align="center"> <img src="/imagesGithub/github.png" alt="bg" /> </p>
 
-### [<p align="center"> Ấn vào đây để xem kết quả tương tự của bạn </p>](https://zukahai.github.io/Confess-Crush/)
-
 <hr>
 
 ## <p align="center"> Hướng dẫn chi tiết </p>
 
-## Gồm 4 bước sau đây:
-[Bước 1: Đăng nhập Github](#bước-1-đăng-nhập-github) </br>
-[Bước 2: Fork project](#bước-2-fork-project) </br>
-[Bước 3: Chỉnh sửa trang web](#bước-3-chỉnh-sửa-web-theo-ý-của-bạn) </br>
-[Bước 4: Tạo trang web](#bước-4-tạo-trang-web) </br>
-[Video hướng dẫn](#-video-hướng-dẫn-) </br>
+* Hướng dẫn làm trang web
+  * [Bước 1: Đăng nhập Github](#bước-1-đăng-nhập-github) </br>
+  * [Bước 2: Fork project](#bước-2-fork-project) </br>
+  * [Bước 3: Chỉnh sửa trang web](#bước-3-chỉnh-sửa-web-theo-ý-của-bạn) </br>
+  * [Bước 4: Tạo trang web](#bước-4-tạo-trang-web) </br>
+* Video Hướng dẫn
+  * [Video hướng dẫn](#-video-hướng-dẫn-)
+* Xem sản phẩm
+  * [Xem sản phẩm](#-ấn-vào-đây-để-xem-kết-quả-tương-tự-của-bạn-)
+* Câu hỏi và phản hồi
+  * [Câu hỏi và phản hồi](#-câu-hỏi-và-phản-hồi-)
+
 Lưu ý: Nếu bạn đang sử dụng điện thoại thì bạn cần mở hướng dẫn này ở dưới dạng cho máy tính bằng cách mở trang web này trong trình duyệt chorme và làm theo hình bên dưới:
 <p align="center"> <img src="/imagesGithub/mobile.png" alt="bg" /> </p>
 <hr>
@@ -59,6 +63,21 @@ Nếu bạn chờ lâu quá mà trang web không hoặc động bạn có thể 
 
 ### <p align="center"> Video hướng dẫn </p>
 Các bạn vẫn chưa làm được à? có thể là bị sai ở một bước nào đó, xem video hướng dẫn để biết mình sai ở đâu nhé.
+</br>
+Xem vide hướng dẫn [Tại đây](https://www.youtube.com/watch?v=RvmmB8euJv4)
 [<p align="center"> <img src="/imagesGithub/video.png" alt="web" /> </p>](https://www.youtube.com/watch?v=RvmmB8euJv4)
+
+<br>
+
+### [<p align="center"> Ấn vào đây để xem kết quả tương tự của bạn </p>](https://zukahai.github.io/Confess-Crush/)
+
+[<p align="center"> <img src="/imagesGithub/demo.png" alt="web" /> </p>](https://zukahai.github.io/Confess-Crush/)
+
+<hr>
+
+### <p align="center"> Câu hỏi và phản hồi </p>
+
+Nếu bạn vẫn chưa làm được hoặc hoặc chưa biết mình làm sai ở đây hãy nhấn vào hình bên dưới hoặc nhấn [Tại đây](https://github.com/zukahai/Confess-Crush/issues/new)
+[<p align="center"> <img src="/img/logi.gif" alt="web" /> </p>](https://github.com/zukahai/Confess-Crush/issues/new)
 
 ### <p align="center">😘💔💙💓💝💟💑 Chúc các bạn thành công 💚💗💘💖💞💋👄</p>
