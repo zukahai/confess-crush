@@ -5,12 +5,16 @@
 
 ## <p align="center"> Hướng dẫn chi tiết </p>
 
-## Gồm 4 bước sau đây:
-[Bước 1: Đăng nhập Github](#bước-1-đăng-nhập-github) </br>
-[Bước 2: Fork project](#bước-2-fork-project) </br>
-[Bước 3: Chỉnh sửa trang web](#bước-3-chỉnh-sửa-web-theo-ý-của-bạn) </br>
-[Bước 4: Tạo trang web](#bước-4-tạo-trang-web) </br>
-[Video hướng dẫn](#-video-hướng-dẫn-) </br>
+* Hướng dẫn làm trang web
+  * [Bước 1: Đăng nhập Github](#bước-1-đăng-nhập-github) </br>
+  * [Bước 2: Fork project](#bước-2-fork-project) </br>
+  * [Bước 3: Chỉnh sửa trang web](#bước-3-chỉnh-sửa-web-theo-ý-của-bạn) </br>
+  * [Bước 4: Tạo trang web](#bước-4-tạo-trang-web) </br>
+* Video Hướng dẫn
+  * [Video hướng dẫn](#-video-hướng-dẫn-)
+* Phản hồi và câu hỏi
+  * [Câu hỏi và phản hồi]()
+
 Lưu ý: Nếu bạn đang sử dụng điện thoại thì bạn cần mở hướng dẫn này ở dưới dạng cho máy tính bằng cách mở trang web này trong trình duyệt chorme và làm theo hình bên dưới:
 <p align="center"> <img src="/imagesGithub/mobile.png" alt="bg" /> </p>
 <hr>
