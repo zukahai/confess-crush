@@ -14,7 +14,7 @@
   * [Video hướng dẫn](#-video-hướng-dẫn-)
 * Xem sản phẩm
   * [Xem sản phẩm](#-ấn-vào-đây-để-xem-kết-quả-tương-tự-của-bạn-)
-* Sản phẩm và câu hỏi
+* Câu hỏi và phản hồi
   * [Câu hỏi và phản hồi](https://github.com/zukahai/Confess-Crush/issues/new)
 
 Lưu ý: Nếu bạn đang sử dụng điện thoại thì bạn cần mở hướng dẫn này ở dưới dạng cho máy tính bằng cách mở trang web này trong trình duyệt chorme và làm theo hình bên dưới:
@@ -70,6 +70,8 @@ Xem vide hướng dẫn [Tại đây](https://www.youtube.com/watch?v=RvmmB8euJv
 <br>
 
 ### [<p align="center"> Ấn vào đây để xem kết quả tương tự của bạn </p>](https://zukahai.github.io/Confess-Crush/)
+
+<hr>
 
 ### <p align="center"> Câu hỏi và phản hồi </p>
 
