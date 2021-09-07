@@ -30,6 +30,8 @@ Sau khi đăng nhập bạn quay lại đây nhé, các bước tiếp theo vô 
 Để có thể sửa trang web theo ý bạn, bạn cần phải fork project này. </br>
 Tại trang này hãy click vào 2 biểu tượng như hình bên dưới.
 <p align="center"> <img src="/imagesGithub/1.png" alt="fork" /> </p>
+Lưu ý: Sau khi bấm fork nên chờ khoảng 2 giây để nó chuyển trang nhé.
+<p align="center"> <img src="/imagesGithub/fork.gif" alt="fork" /> </p>
 
 ### Bước 3: Chỉnh sửa web theo ý của bạn.
 Để chỉnh sửa trong web theo ý của bạn, bản cần chỉnh sửa file config.js </br>
