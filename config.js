@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: "From ToNgan with Love",
+    introTitle: 'Gửi đến bạn Nguyên Ngáo Ngơ',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+Mà sao Nguyên cứ đi nhầm đường
+Lạc vào tim tui lẻ loi
+Đằng sau chữ yêu đây là thương`,
+    btnIntro: '^^Hí Hí^^',
+    title: 'Phải chăng Nguyên đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng Nguyên đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'U là trời, tui mê lắm lắm lắm <33',
+    btnNo: ' Mơ đi nha, tui lỡ thích A7 rùi  :3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại mê mình thế nhờ <3',
+    btnReply: 'Tại vì duyên số nên chúng mình...',
+    reply: 'Mê không mê thì cũng phải mê <3',
+    mess: 'Cơ mà 🥰. Tui lỡ mê gái xinhhh ùi. Hẹn ông kiếp sau, kiếp này ta hông thấy nhau 😘😘',
+    messDesc: 'From ToNgan with love.',
+    btnAccept: '<3 <3 <3',
+    messLink: 'https://github.com/zukahai/Confess-Crush' //https://www.facebook.com/nganle0719/
 }
