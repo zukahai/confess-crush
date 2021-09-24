@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Gửi bạn MT iu dấu",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: "Gửi MT iu dấu",
+    introTitle: 'Hế luuu',
     introDesc: `Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.`,
     btnIntro: 'Hứa trả lời THẬT luôn',
     title: 'Cậu vẫn yêu tớ có phải không nào ._.',
