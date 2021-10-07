@@ -1,6 +1,6 @@
-const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+const CONFIG = {Phải chăng em đã yêu}
+    titleWeb: "Gửi crush",
+    introTitle: 'Bé <3',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
