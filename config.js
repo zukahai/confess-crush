@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Nguyễn Ngọc Lan',
     introDesc: `Chúc bạn ngày 20/10 nhận được nhiều quà, nhiều hoa, nhiều lời yêu thương từ phái nam trong ngày đặc biệt này. Hãy luôn xinh đẹp, rạng ngời và thành công trong cuộc sống nhé!`,
     btnIntro: '^^Yêu bạn nhiều^^',
-    title: 'Nhân dịp 20/10, thay mặt anh em trong CLB, chúc bạn luôn xinh đẹp, làm việc thì hết sức, vui chơi thì hết mình, có một ngày 20/10 thật ý nghĩa, tràn ngập hạnh phúc. Đặc biệt là luôn rạng ngời, xinh đẹp trong mắt một nửa còn lại.',
+    title: 'Nhân dịp 20/10, thay mặt anh em trong CLB, chúc bạn xinh đẹp và những đièu tốt nhất dành cho bạn.',
     desc: 'Bọn mình có chuẩn bị 1 món quà dành cho bạn bạn có muốn nhận nó không ',
     btnYes: 'Không nhé',
     btnNo: 'Okela',
