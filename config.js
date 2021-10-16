@@ -1,8 +1,8 @@
 const CONFIG = {
-    titleWeb: "LUÂN HOÀNG",
-    introTitle: 'CLB SVHD PHU Cu',
-    introDesc: `Suốt ngày chỉ giao nhiều dl cho Nuaan thôiii`,
-    btnIntro: '^^Ấn nhanh^^',
+    titleWeb: "From Luân Hoàng With Love",
+    introTitle: 'Nguyễn Ngọc Lan',
+    introDesc: `Chúc bạn ngày 20/10 nhận được nhiều quà, nhiều hoa, nhiều lời yêu thương từ phái nam trong ngày đặc biệt này. Hãy luôn xinh đẹp, rạng ngời và thành công trong cuộc sống nhé!`,
+    btnIntro: '^^Yêu bạn nhiều^^',
     title: 'Lần sau không giao cho Nuaan dl nx nhé 😝',
     desc: 'Chuyển cho Nuaan cả CLB cũng được ý ',
     btnYes: 'Okela',
