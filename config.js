@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "From Luân Hoàng With Love",
-    introTitle: '♥️ Nguyễn Thị Ngọc Anh ♥️',
+    introTitle: '♥️ Bùi Nguyễn Tố Uyên ♥️',
     introDesc: `Chúc bạn ngày 20/10 nhận được nhiều quà, nhiều hoa, nhiều lời yêu thương từ phái nam trong ngày đặc biệt này. Hãy luôn xinh đẹp, rạng ngời và thành công trong cuộc sống nhé😍😍😍!`,
     btnIntro: '^^Yêu bạn nhiều^^',
     title: 'Nhân dịp 20/10, thay mặt anh em trong CLB, chúc bạn xinh đẹp 💄và những đièu tốt nhất dành cho bạn.😘',
