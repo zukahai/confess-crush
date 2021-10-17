@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    titleWeb: "From Luân Hoàng With Love",
+    introTitle: '♥️ Doãn Thị Huế ♥️',
+    introDesc: `Chúc bạn ngày 20/10 nhận được nhiều quà, nhiều hoa, nhiều lời yêu thương từ phái nam trong ngày đặc biệt này. Hãy luôn xinh đẹp, rạng ngời và thành công trong cuộc sống nhé😍😍😍!`,
+    btnIntro: '^^Yêu bạn nhiều^^',
+    title: 'Nhân dịp 20/10, thay mặt anh em trong CLB, chúc bạn xinh đẹp 💄và những đièu tốt nhất dành cho bạn.😘',
+    desc: 'Bọn mình có chuẩn bị 1 món quà dành cho bạn bạn có muốn nhận nó không 🙄',
+    btnYes: 'Tớ nhận hết, kể cả cậu 😍',
+    btnNo: 'Không nhận đâu 😈',
+    question: 'Trong 1 thời gian làm trong CLB thì bạn nhận xét tớ như thế nào🤔',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Tớ thích cậu nhiều lắm ',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Tối nay 8h, tớ sẽ cho cậu 1 bất ngờ nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/nuaan.123205/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
