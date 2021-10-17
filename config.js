@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "From Luân Hoàng With Love",
+    titleWeb: "From Luân Hoàng With Love <3",
     introTitle: '♥️ Nguyễn Ngọc Lan ♥️',
     introDesc: `Chúc bạn ngày 20/10 nhận được nhiều quà, nhiều hoa, nhiều lời yêu thương từ phái nam trong ngày đặc biệt này. Hãy luôn xinh đẹp, rạng ngời và thành công trong cuộc sống nhé😍😍😍!`,
     btnIntro: '^^Yêu bạn nhiều^^',
