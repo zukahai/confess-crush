@@ -13,8 +13,7 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình 🤔',
     btnReply: 'Nói tớ biết đi :33 ',
     reply: 'yêu cậu',
-    mess: 'Tớ biết mà 🥰.
-    Tớ cx iu cậu 🤣',
+    mess: 'Tớ biết mà ❤️❤️ Tớ cx iu cậu 🤣',
     messDesc: 'Đợi tí tớ để hẹn hò với cậu🤣',
     btnAccept: 'Okiiii :)))))',
     messLink: 'https://m.me/iam.cat411' //link mess của các bạn. VD: https://m.me/nam.nodemy
