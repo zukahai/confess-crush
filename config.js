@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "HÔM NAY LÀ 20/10 ĐẤYYY",
+    introTitle: 'Nhé các chị em của Page này giúp bạn thúc đẩy quá trình học tiếng anh',
+    introDesc: `TTrái đất tròn, lòng tôi góc cạnh
+    Ngày bạn đến, lòng tôi bằng phẳng
+    Trái đất hình cầu, nhưng 20/10 vẫn là ngày ở đỉnh chóp
+    Còn vị trí chị em thì luôn ở đỉnh TOPPPPP !`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Chúc 20/10 chị em phải luôn xinh đẹp, rạng rỡ, giữ được nụ cười trên môi. Học thì phải giỏi. Thi gì đỗ nấy, 9.0 IELTS, 120 TOEFL giải nhất HSG,....',
+    desc: 'Hôm nay là ngày của các chị em, mặc dù là còn nhiều phiền muộn cũ, nhưng đọc đến đây thì đã quên hết đi rồi chứ?',
+    btnYes: 'Đương nhiên là quên hết rồi. Đọc xong làm sao mà không quên được !!',
+    btnNo: 'Không nha, tui vẫn còn buồn lắm :(( Nỗi buồn khum thể vơi',
+    question: 'Page mình ngoài kiến thức ra thì còn có gì nữa dị ??',
+    btnReply: 'Gửi đi với triệu trái tym <3',
+    reply: 'Có tình yêu thưn đong đầy và có những bạn gái cực tuyệt, cực giỏi giang, đa tài, xinh xắn nhứt thiên hạ !!',
+    mess: 'Hehe tui biết là sẽ nói vậy mà, nhưng mà còn có cả các bạn nam tâm lý nữa nhé ^^',
+    messDesc: 'Nói vậy chứ, 20/10 là ngày dành riêng cho chị em. Mọi người phải vứt bỏ hết deadlines để dành thời gian thư giãn cho bản thân. Các bạn xứng đáng được trân trọng như thế <3. Ấn oke để tui hát cho nghe nè =))',
+    btnAccept: 'Okiiiii lun. Cảm ơn nhiều lắm lun á !!,
+    messLink: 'https://www.youtube.com/watch?v=Ope8MY5zjGA' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
