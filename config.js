@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: "Hi chào cậu Hưng đây",
+    introTitle: 'Đôi lời đến bạn Trang',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnIntro: 'Ấn đây nài',
+    title: '20-10 chúc cậu happy wedding nha haha',
+    desc: '❤️LOVE YOU❤️',
+    btnYes: 'Ỏ yêu cậu ❤️',
+    btnNo: 'Xaml :))',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình 🤔',
+    btnReply: 'Nói tớ biết đi :33 ',
+    reply: 'yêu cậu',
+    mess: 'Tớ biết mà ❤️❤️ Tớ cx iu cậu 🤣',
+    messDesc: 'Đợi tí tớ để hẹn hò với cậu🤣',
+    btnAccept: 'Okiiii :)))))',
+    messLink: 'https://m.me/iam.cat411' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
