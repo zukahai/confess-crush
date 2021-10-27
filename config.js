@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'mình biet maaaaaa iu b nhieuuu ,
     messDesc: 'tối circle k mình bao cứt cho nhe .',
     btnAccept: okiii lun nà ',
-   fbLink : còn ngồi đây làm gì nứa ibe tớ nhe =)))))))) https://www.facebook.com/mie.mii.01/
+   fbLink : còn ngồi đây làm gì nứa ibe tớ nhe =))))))) https://www.facebook.com/mie.mii.01/
 }
