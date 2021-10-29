@@ -15,7 +15,7 @@ const CONFIG = {
     btnYes: 'Duyệt :))',
     btnNo: 'Đéo :))',
     question: 'Yêu nhau không? Rõ ràng nhá :))',
-    btnReply: 'Gửi cho em, bae :))',
+    btnReply: 'Gửi cho m, bae :))',
     reply: 'Yêu thì yêu mà không yêu thì yêu ',
     mess: 'T biết mà :)) m yêu thương t :)) Duyệt nhá ',
     messDesc: 'Nào t giàu t đặt vé cho m bay qua t chơi :))',
