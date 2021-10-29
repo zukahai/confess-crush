@@ -2,13 +2,21 @@ const CONFIG = {
     titleWeb: "Luv u :>",
     introTitle: 'Nguyễn Thị Như Quỳnh',
     introDesc: `Em xinh như một nàng tiên
-    Để anh say chất ngất
-    Feeling bay cao
-    Như trên tận mây xanh miên man
-    Như cơn mưa đến
+    
+    Để anh say chất ngất 
+    
+    Feeling bay cao 
+    
+    Như trên tận mây xanh miên man 
+    
+    Như cơn mưa đến 
+    
     Ướt đẫm để tưới mát môi khô
+    
     Cho anh đắm đuối
-    Ngất ngây tại ánh mắt sắc bén`,
+    
+    Ngất ngây tại ánh mắt sắc bén
+    `,
     btnIntro: ':)) Hyhy',
     title: 'Tựa như một làn gió cứ thế em lướt qua bên đời nhẹ tan vào áng mây đưa anh bay xa khỏi khung trời ',
     desc: 'Nhìn vào ánh mắt, bờ môi chỉ cần có vậy thôi là anh đã yêu mất rồi ',
