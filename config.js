@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 't ăn hết yên tâm :33',
     btnNo: 'th kh ăn đâu :)))',
     question: 'Lý do m muốn ăn :33',
-    btnReply: 'Nộp lí do thèm ăn vào đây :33',
+    btnReply: 'Ấn đây',
     reply: 'Tại vì nó ngon dc chưa =)))))))',
     mess: 'T bt ngay m kh nhịn dc mà',
     messDesc: 'Hết dịch xách ngay lập tức cái dạ dày của m ra quán đợi t mua cho :33.',
