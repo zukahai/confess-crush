@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "This page is very cute ^^",
+    introTitle: 'Athu Ngoẻn',
+    introDesc: `Cho m 2 lựa chọn`,
+    btnIntro: '^^ẤN ĐÂY Ơ KÌA^^',
+    title: ' Thế có ăn bánh tréng với trà sữa không t còn cbi???',
+    desc: 'Chọn lẹ',
+    btnYes: 't ăn hết yên tâm :33',
+    btnNo: 'th kh ăn đâu :)))',
+    question: 'Lý do m muốn ăn :33',
+    btnReply: 'Tại vì nó ngon dc chưa =)))))))',
+    reply: 'NỘP LÝ DO VÀO ĐÂY',
+    mess: 'T bt ngay m kh nhịn dc mà',
+    messDesc: 'Hết dịch xách ngay lập tức cái dạ dày của m ra quán đợi t mua cho :33.',
+    btnAccept: 'okeee luôn bạn ơiiiii :33',
+    messLink: 'm.me/CauBeMang'
 }
