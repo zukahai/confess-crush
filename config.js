@@ -11,6 +11,6 @@ const CONFIG = {
     btnReply: 'Ấn đây',
     reply: 'Tại vì nó ngon dc chưa =)))))))',
     mess: 'T bt ngay m kh nhịn dc mà',
-    messDesc: 'Hết dịch xách ngay lập tức cái dạ dày của m ra quán đợi t mua cho :33.',
-    btnAccept: 'okeee luôn bạn ơiiiii :33.Out page đi m',
+    messDesc: 'Hết dịch xách ngay lập tức cái dạ dày của m ra quán đợi t mua cho :33.Giờ thì out page giúp t cái.',
+    btnAccept: 'okeee luôn bạn ơiiiii :33',
 }
