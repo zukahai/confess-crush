@@ -10,8 +10,9 @@ const CONFIG = {
     question: 'Thế bà làm gì để thể hiện tình yêu của dành cho tui :>',
     btnReply: 'Gửi cho Cọp <3',
     reply: 'Tui hát cho ông nghee được không <33333333',
-    mess: 'Đáng yêu vậy 🥰. Yêu Hân nhiều nhiều 😘😘',
+    mess: 'Đáng yêu vậy 🥰. Yêu Hân
+    nhiều nhiều 😘😘',
     messDesc: 'Bây giờ hát gửi quaa luôn nhaaa',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/messages/t/100031392533269/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
