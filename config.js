@@ -1,20 +1,17 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'Anh Đây😞😞😞',
+    introDesc: `mấy ngày nay 2 chúng mình im lặng quá 😞 anh không muốn mình phải như thế anh đã biết anh sai anh xin lỗi thật lòng đấy, anh xin lỗi nói những lời như vậy h anh muốn rút lại lắm 😞 làm tổn thương em, anh xin lỗi...`,
+    btnIntro: 'Chọn Tiếp Nha !!!',
+    title: 'Anh Muốn Xin lỗi em',
+    desc: 'Tha lỗi cho anh nha',
+    btnYes: 'Em Đồng Ý',
+    btnNo: 'Em Không',
+    question: 'Em muốn nói gì thì nhập vào trong này nha !!!',
+    btnReply: 'Gởi cho anh',
+    reply: 'Anh biết em không thể nhắn vào trong này được đâu, anh cũng không đọc được thôi thì nhắn messenger cho anh nha ♥... Bấm vào "Gởi Cho Anh nha"',
+    mess: 'Anh xin lỗi em nhiều lắm bae của anh♥',
+    messDesc: 'Anh yêu thương nhiều hơn anh sẽ nhìn đó mà thay đổi, anh không nên đôi co với em, anh xin lỗi',
+    btnAccept: 'Yêu Em',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
