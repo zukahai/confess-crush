@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "bluemoon",
     introTitle: 'You',
-    introDesc: `Hey you! Long time no see!
+    introDesc: 'Hey you! Long time no see!'
     Thanks! You're awesome for being fond of me
     It'll Be Great If We Are Friends
     Friends...tks`,
