@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'T biết mà 🥰.hiuhiuuu 😘😘',
     messDesc: 'goodbye and we are friends ',
     btnAccept: 'Okiiiii lun ❤',
-    messLink:  'https://github.com/zukahai/Confess-Crush' 
+    messLink: 'https://github.com/zukahai/Confess-Crush' 
 }
