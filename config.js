@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'yep,i like it :3',
     question: 'we're more suited to being friends ❤',
     btnReply: 'Gửi cho bạn ❤',
-    reply: 'Uh, i think so... ',
+    reply: 'Uh, i think so ',
     mess: 'T biết mà 🥰.hiuhiuuu 😘😘',
     messDesc: 'goodbye and we are friends ',
     btnAccept: 'Okiiiii lun ❤',
