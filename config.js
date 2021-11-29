@@ -7,7 +7,7 @@ const CONFIG = {
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Chào em!',
     title: 'Anh ơi',
-    desc: 'Nếu anh không phiền thì làm người yêu em nhá, nếu anh không phiền thì nhận tình yêu em nháaa ',
+    desc: 'Nếu anh không phiền thì làm người yêu em nhá, nếu anh không phiền thì nhận tình yêu em nháaa ( Tắt cái này đi không trả lời là phải yêu em suốt đời :> ) ',
     btnYes: 'Anh đồng ý',
     btnNo: 'Không đâu',
     question: 'Thế giới có hơn 7 tỉ người mà sao anh lại chọn em :>',
