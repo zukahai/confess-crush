@@ -1,6 +1,6 @@
-const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+const CONFIG =https://github.com/zukahai/Confess-Crush {yeu
+    titleWeb: "yeu",
+    introTitle: 'satoru gojo',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
