@@ -19,4 +19,4 @@ A full commitment's what I'm thinking of
 You wouldn't get this from any other guy',
     messDesc: 'thôi tao đi ngủ @.@ ',
     btnAccept: 'Paii',
-    messLink: 'https://'ThinhSuperIdol'
+    messLink: 'https://'ThinhSuperIdol.com'
