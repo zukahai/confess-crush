@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'hong bít bai bai :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn nại iu thíc mình zọ <3',
     btnReply: 'Gửi nè <3',
-    reply: 'vừa đáng iu nại bít điều <33333333',
+    reply: 'vừa đáng iu nại bít điều ai nại hong mê chữ ê kéo dài iiiiiii <33333333',
     mess: 'kiki mình bít mò nớp diu tu 😘😘',
     messDesc: 'rep tin nhắn ngay và lun, hong có trò gửi sticker không thui đâu -.-',
     btnAccept: 'Okiiiii lun <3',
