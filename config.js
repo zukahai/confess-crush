@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi nè <3',
     reply: 'vừa đáng iu nại bít điều ai nại hong mê chữ ê kéo dài iiiiiii <33333333',
     mess: 'kiki mình bít mò nớp diu tu 😘😘',
-    messDesc: 'rep tin nhắn ngay và lun, hong có trò gửi sticker không thui đâu -.-',
+    messDesc: 'rep tin nhắn ngay và lun, hong có trò gửi sticker không thui đâu nè-.-',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/mia.13.99/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
