@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'VÌ CÔNG CHÚA HUY DỄ THƯƠNG DỊU DÀNG VÀ YÊU EMMM <33333333',
     mess: 'ANHH biết mà 🥰. Yêu EMM nhiều nhiều 😘😘',
     messDesc: 'CHÚC EM SINH NHẬT VUI VẺ VÀ CÓ ĐƯỢC ANH NGƯỜI YÊU NHAAA ',
-    btnAccept: 'DẠ VÂNG ẠAAA <3',
+    btnAccept: 'DẠ VÂNG ẠAAAA <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
