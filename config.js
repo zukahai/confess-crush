@@ -1,13 +1,12 @@
 const CONFIG = {
     titleWeb: "Làm người YÊU anh nha bé :3 ",
     introTitle: 'Công CHÚA HAY DỖI CỦA ANHHH',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `TRÚC xinh TRÚC mọc đầu đình 
+    OANH XINH OANH PHẢI
+    LÀM BẠN TÌNH CỦA ANHHHH `,
     btnIntro: '^^BẤM VÀO BABEEE^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'ANH KHÔNG BIẾT CẢM GIÁC NÀY CÓ TỪ LÚC NÀO  🥰',
+    desc: 'NHƯNG BÂY GIỜ ANH YÊU EM VÃI L*N LUÔN RỒIIIII :3 ',
     btnYes: 'YÊU CÔNG CHÚA HUY NHẤT <33',
     btnNo: 'GHÉT MÀY NHẤT NHAA :3',
     question: 'SAO CÔNG CHÚA HAY DỖI LẠI YÊU CÔNG CHÚA HUYYY DỌOO <3',
