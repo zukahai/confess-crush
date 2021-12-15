@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho CÔNG CHÚA HUY <3',
     reply: 'VÌ CÔNG CHÚA HUY DỄ THƯƠNG DỊU DÀNG VÀ YÊU EMMM <33333333',
     mess: 'ANHH biết mà 🥰. Yêu EMM nhiều nhiều 😘😘',
-    messDesc: 'CHÚC EM SINH NHẬT VUI VẺ VÀ CÓ ĐƯỢC ANH NGƯỜI YÊU NHAAA ',
+    messDesc: 'CHÚC EM SINH NHẬT VUI VẺ VÀ CÓ ĐƯỢC ANH NGƯỜI YÊU NHAAAA ',
     btnAccept: 'DẠ VÂNG ẠAAAA <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
