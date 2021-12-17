@@ -1,18 +1,17 @@
 const CONFIG = {
     titleWeb: "yeuuemm hehe😘",
     introTitle: 'Nguyễn Khánh Linh',
-    introDesc: `tha lỗi cho chồng đi
-    rồi ta hòa nha🥰`,
+    introDesc: `Người yêu tui đó mấy cha🥰`,
     btnIntro: '^^HiHi^^',
-    title: 'tha lỗi cho chồng nha vkyeuu 🥰',
-    desc: 'tha lỗi là phải vô nhắn liền cho ck nha ',
-    btnYes: 'Tha đó 😎😎<33',
+    title: '25-10-2020 🥰',
+    desc: '08-08-2003❤20-11-2003 ',
+    btnYes: 'coi tiếp <33',
     btnNo: 'đéoo🤭 :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu tui <3',
-    btnReply: 'Gửi cho bạn <3',
+    question: 'khoe người yêuu thôi coi đéo gì lắm <3',
+    btnReply: 'ok <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'tui biết ngay mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, ck qua đón đi chơi nha.',
+    mess: 'thế thôi hết rồi đó menn',
+    messDesc: 'không có ảnh đâu lười làm.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
