@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Lecieltoyou",
+    introTitle: 'Leciel',
+    introDesc: `Gửi đến con nhóc đặc biệt được sinh ra trong ngày đặc biệt!,
+    btnIntro: 'Nhấn vô',
+    title: 'Happy birthday',
+    desc: 'Chúc em luôn tự tin, thật nhiều sức khỏe, thật nhiều may mắn sẽ đến với em . Cho dù có thêm nhiều khó khăn, hay chuyện buồn nào nữa, hãy luôn nhớ - em có tôi, Leciel luôn đứng về phía em , ủng hộ em !  ',
+    btnYes: 'Cảm ơn',
+    btnNo: 'Không cảm ơn',
+    question: 'Rõ rồi chứ?',
+    btnReply: 'Em phải nói sao?!',
+    reply: 'Tuân Lệnh',
+    mess: 'Phải nói là " tuân lệnh" . Leciel là nhất, Leciel là số 1!',
+    messDesc: 'Leciel luôn ở đây khi em cần',
+    btnAccept: 'Vâng ạ',
+    messLink: 'https://www.facebook.com/HaitaniRan.Leciel',
 }
