@@ -13,5 +13,4 @@ const CONFIG = {
     mess: 'Phải nói là " tuân lệnh" . Leciel là nhất, Leciel là số 1!',
     messDesc: 'Leciel luôn ở đây khi em cần',
     btnAccept: 'Vâng ạ!',
-    messLink: 'https://www.facebook.com/HaitaniRan.Leciel',
 }
