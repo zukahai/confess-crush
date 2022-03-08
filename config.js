@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Tặng em 8/3",
+    introTitle: 'Trần Nguyễn Thùy Khanh',
+    introDesc: `em bấm
+    vào
+    đây đi
+    :33`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    title: 'Hôm nay 8/3 anh chúc bé luôn dễ thương , học hành ngoan ngoãn , xinh đẹp tuyệt vời và mãi mãi yêu anh 💕 (⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄ 🥰',
+    desc: 'Bé chịu khummm (。-`ω´-) ',
+    btnYes: 'Dạaa chịu <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    question: 'bé chịu anhh awww <3',
+    btnReply: 'anh yêu bé <3',
+    reply: 'Yêu bée gất nhiềuu <33333333',
+    mess: 'Anh yêu bé 😘😘',
+    messDesc: 'Mãi làm vợ anh nha ❣️.',
+    btnAccept: 'Đi học về chơi game với anh nha <3',
+    messLink: 'https://Ducdz.com/ducdz/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
