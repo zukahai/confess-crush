@@ -18,3 +18,4 @@ const CONFIG = {
     btnAccept: 'Đi học về chơi game với anh nha <3',
     messLink: 'https://Ducdz.com/ducdz/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
+In
