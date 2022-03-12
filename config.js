@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Thế giới của Cọpp",
+    titleWeb: "Thế giới của Cọp",
     introTitle: 'Gửi Hồng Ngọc Cute',
     introDesc: `Bảo lộn người sao vẫn nhấn vào thế:)`,
     btnIntro: 'Nhấp vào đây.-.',
