@@ -5,7 +5,7 @@ const CONFIG = {
      Xung quanh em bao nhiêu cậu trai muốn chiếm tim em`,
     btnIntro: '^^HiHi^^',
     title: 'Nhưng vì có anh ở đây si mê em nhường này🥰',
-    desc: 'Vậy đừng phí thêm thời gian hãy để anh hôn em đúng khi màn đêm❤ ',
+    desc : 'Bạn đừng quên thêm thời gian, hãy để anh hôn em đúng khi màn đêm❤❤' ,
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao em lại rơi vào ánh mắt của anh <3',
