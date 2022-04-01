@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: " Hãy tận hưởng và cảm nhận tuổi 17 thật đẹp nhé❤",
-    introTitle: 'Công túa đáng ghét',
+    introTitle : 'Công túa đáng ghét❤' ,
     introDesc: `Là bởi vì em quá xinh đẹp quá đỗi yêu kiều❤
      Xung quanh em bao nhiêu cậu trai muốn chiếm tim em`,
     btnIntro: '^^HiHi^^',
