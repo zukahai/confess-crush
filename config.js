@@ -15,4 +15,6 @@ const CONFIG = {
     messDesc : '18h Chiều ngày 6/4, anh qua đón đi chơi nha bae😍❤.' ,
     btnAccept: 'Okiiiii lun <3',
     messLink : 'https://github.com/zukahai/Confess-Crush'  // https://www.facebook.com/khanhnguyen.khanhnguyen.9404362. VD: https://www.facebook.com/messages/t/100014188333536
-}
+}.  curl \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/orgs/ORG/repos
