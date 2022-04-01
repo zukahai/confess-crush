@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `Là bởi vì em quá xinh đẹp quá đỗi yêu kiều❤
      Xung quanh em bao nhiêu cậu trai muốn chiếm tim em`,
     btnIntro: '^^HiHi^^',
-    title: 'Nhưng vì có anh ở đây si mê em nhường này🥰',
+    title : 'Nhưng vì có anh ở đây si mê em nhường này🥰🤞' ,
     desc : 'Bạn đừng quên thêm thời gian, hãy để anh hôn em đúng khi màn đêm❤❤' ,
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
