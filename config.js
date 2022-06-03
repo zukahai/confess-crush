@@ -1,20 +1,24 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    titleWeb: " Lời Tỏ Tình ",
+    introTitle: 'Cục Nợ Yêu Thương ❤',
+    introDesc: `Em à, vốn dĩ ngay từ đầu e luôn tỏ lạnh nhạt với a, ác với a, 
+              thậm chí còn láo với a 😁. Anh cũng k có mấy ấn tượng tốt về em.
+              Nhưng càng ngày a càng thích em hơn, yêu em hơn. Chứng tỏ tình cảm
+              a dành cho e k phải vì 1 chút nông nổi hay cảm nắng nhỉ? Nhưng biết
+              đâu có thể do bùa chăng?? Kaka 😁. Chắc e đọc đến khúc này lại đang 
+              chửi a rồi đúng ko. A hay đùa, hay trêu e vậy chứ a biết e là 1 
+              người con gái tốt, giàu tình cảm. Phía sau những lời nói cộc lốc, 
+              thái độ bất cần là 1 con ❤ ấm áp, yêu thương a!,
+    btnIntro: '❤Anh Yêu Em❤',
+    title: 'Còn e, e có yêu a ngay từ lần đầu chúng ta gặp nhau k 🥰',
+    desc: 'Bây giờ thì sao? ',
+    btnYes: 'Em cũng yêu a rất nhiều! 🥰',
+    btnNo: 'Không yêu 😜',
+    question: 'Tại sao có rất nhiều người thích e tốt hơn a, mà e lại chọn a',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Yêu thì yêu mà không yêu thì cũng phải yêu <33333333',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Tối nay mình gặp nhau nhé em yêu ❤.',
+    btnAccept: 'Vâng ạ <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
