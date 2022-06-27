@@ -2,9 +2,9 @@ const CONFIG = {
     titleWeb: "LOVE OR NOT",
     introTitle: 'Dieuhandsome',
     introDesc: 'Tên người yêu bạn',
-    introDesc: `Anh không yêu em anh,anh yêu ai  `
-     `Anh không yêu ai , ai yêu em  `
-     `Không ai yêu em , tôi yêu em `,
+    introDesc: `Anh không yêu em anh anh yêu ai  
+     Anh không yêu ai ai yêu em  
+    Không ai yêu em tôi yêu em `,
     
     
     btnIntro: '^^HiHi^^',
