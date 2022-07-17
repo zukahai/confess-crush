@@ -23,7 +23,11 @@ Lưu ý: Nếu bạn đang sử dụng điện thoại thì bạn cần mở hư
 
 ### Bước 1: Đăng nhập github
 Bạn phải có tài khoản github, nếu bạn chưa có hay đăng ký [Tại đây](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) </br>
-Sau khi đăng nhập bạn quay lại đây nhé, các bước tiếp theo vô cùng đơn giản thôi.
+Sau khi đăng nhập bạn quay lại đây nhé, các bước tiếp theo vô cùng đơn giản thôi.</br></br>
+Follow github.</br>
+<p align="center"> <img src="/imagesGithub/follow.png" alt="bg" /> </p>
+
+Truy cập và đường link và ấn follow cho mình nhé: https://github.com/zukahai
 
 
 ### Bước 2: Fork Project
