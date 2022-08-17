@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: "emiu Phương Changggg",
+    introTitle: 'Phương Tranggg XinhĐẹp',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    btnIntro: 'Yêu Chang nhiềuu nhiềuuu',
+    title: 'Với thế giới thì em chỉ là một người. Còn với anh, em là cả thế giới. 🥰',
+    desc: 'Nếu mỗi lần nhớ tới em anh được 500 đồng chắc giờ này anh đã vượt xa Bill Gates.',
+    btnYes: 'Yêu bé bụng mỡ nhiều nhiềuuu<33',
+    btnNo: 'yêu bé bụng mỡ nhiểu:3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao Chang lại yêu emm <3',
+    btnReply: 'Gửi cho bé Đạt <3',
+    reply: 'Bắt buộc yêu nhaaaa <33333333',
+    mess: 'Em biết mà 🥰. Yêu bé Chang nhiều nhiều 😘😘',
+    messDesc: 'Xem rồi thì thơm bé Đạt nhiều cái nhaaa !',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.facebook.com/profile.php?id=100007736569280' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
