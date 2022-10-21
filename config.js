@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    introTitle: 'xinchao ThuHien nhaa:33',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -13,8 +13,8 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    mess: 'Mình biết mà 🥰. Kệ mẹ bạn 😘😘',
+    messDesc: 'bớt ảo tưởng lại đi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://m.me/chuongroseee' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
