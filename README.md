@@ -51,6 +51,9 @@ Sau khi chỉnh sửa xong bạn nhớ ấn và0 đây để lưu lại nhé.
 <p align="center"> <img src="/imagesGithub/4.png" alt="support" /> </p>
 
 ### Bước 4: Tạo trang web
+
+***Lưu ý: Phân này có thể bị cập nhật thường xuyên, nếu bạn vẫn chưa làm được có thể xem video hướng dẫn để dễ thực hiện hơn***
+
 Để có thể xem cũng như đưa trang web của bạn cho người khác xem, bạn cần làm như sau. </br>
 Đầu tiên chuyển sang phần setting bằng cách bấm và setting như hình dưới:
 <p align="center"> <img src="/imagesGithub/5.png" alt="setting" /> </p>
@@ -70,8 +73,8 @@ Nếu bạn chờ lâu quá mà trang web không hoặc động bạn có thể 
 ### <p align="center"> Video hướng dẫn </p>
 Các bạn vẫn chưa làm được à? có thể là bị sai ở một bước nào đó, xem video hướng dẫn để biết mình sai ở đâu nhé.
 </br>
-Xem vide hướng dẫn [Tại đây](https://www.youtube.com/watch?v=RvmmB8euJv4)
-[<p align="center"> <img src="/imagesGithub/video.png" alt="web" /> </p>](https://www.youtube.com/watch?v=RvmmB8euJv4)
+Xem vide hướng dẫn [Tại đây]([https://www.youtube.com/watch?v=RvmmB8euJv4](https://drive.google.com/file/d/1ACDGxlP3MsYQOsslN6WXzlDvyIc3V-MI/view?usp=drive_link))
+[<p align="center"> <img src="/imagesGithub/video.png" alt="web" /> </p>]([https://www.youtube.com/watch?v=RvmmB8euJv4](https://drive.google.com/file/d/1ACDGxlP3MsYQOsslN6WXzlDvyIc3V-MI/view?usp=drive_link))
 
 <br>
 
