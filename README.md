@@ -90,3 +90,5 @@ Nếu bạn vẫn chưa làm được hoặc hoặc chưa biết mình làm sai 
 [<p align="center"> <img src="/img/logi.gif" alt="web" /> </p>](https://github.com/zukahai/Confess-Crush/issues/new)
 
 ### <p align="center">😘💔💙💓💝💟💑 Chúc các bạn thành công 💚💗💘💖💞💋👄</p>
+
+> Source-code được tham khảo từ nhiều nguồn.
