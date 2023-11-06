@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Chúc mừng sinh nhật",
+    introTitle: ''Minh Ái',
+    introDesc: `Chúc mừng sinh nhật em :))).
+    Chúc em ngày càng thành công
+    luôn luôn vui vẻ
+    Bún trong tay tiền đầy túi :v`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    title: 'You only live once, but if you do it right, once is enough',
+    desc: '欢迎你来到这地球日',
+    btnYes: ''Đoán xem gì đây nà',
+    btnNo: ''Đố em chọn được =))))',
+    question: 'Thích quà sinh nhật anh tặng không =)))',
+    btnReply: 'Gửi cho anh :v',
+    reply: 'Em thích lắm',
+    mess: 'Anh biết mà =))))',
+    messDesc: 'Ngủ ngon nhá. Muộn roài',
+    btnAccept: 'Ô sờ kê luôn',
+    messLink: 'https://www.facebook.com/messages/t/100004727201406'
 }
