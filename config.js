@@ -1,4 +1,4 @@
-const CONFIG = {
+    const CONFIG = {
     titleWeb: "LOVE OR NOT",
     introTitle: 'Dieuhandsome',
     introDesc: 'Tên người yêu bạn',
