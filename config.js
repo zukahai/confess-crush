@@ -11,7 +11,7 @@ waiting  for you `,
     
     
     btnIntro: '^^HiHi^^',
-    title: 'Ly ơi Ly có thích tôi k  🥰',
+    title: 'Hằng  ơi Hằng có thích tôi k  🥰',
     desc: ' ',
     btnYes: 'Em thích a Diệu lắm  <33',
     btnNo: 'Không , mơ đi :3',
