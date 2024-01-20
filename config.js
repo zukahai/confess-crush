@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "20/10 :Đ",
+    introTitle: 'Gửi tặng cậu - thiên thần Mar02',
+    introDesc: `Nhân ngày 20/10,
+    chúng tớ chỉ muốn nói là...
+    Các cậu tuyệt vời lắm ^^
+    Cứ giữ sự tuyệt vời ấy và xem tiếp nhá ^^`,
+    btnIntro: 'Xem tiếppp',
+    title: 'Chúc các cậu mãi giỏi giang và xinh đẹp 🥰',
+    desc: 'Ai mà vẫn một mình thì tiếp tục... tìm cách để không một mình :> ',
+    btnYes: 'Hay vào đây :33',
+    btnNo: 'Cậu thích bấm vào đây :3',
+    question: 'Cậu có gì muốn nói với chúng tớ thì ghi ở dưới đây nhá :Đ',
+    btnReply: 'Gửi ở đây nhá :>',
+    reply: 'Tớ sẽ bao các bạn 1 bữa <3',
+    mess: 'Oke tớ xin nhận nhá hêh :Đ',
+    messDesc: 'Hết mất roaifii. Cậu có thấy vui không? :>',
+    btnAccept: 'Cóaaaaa',
+    messLink: 'https://www.facebook.com/messages/t/5428670800532578' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
