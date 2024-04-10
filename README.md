@@ -1,5 +1,7 @@
 ## <p align="center"> Tạo một trang web tỏ tình không cần code </p>
-<p align="center"> <img src="/imagesGithub/github.png" alt="bg" /> </p>
+
+![confess-crush
+](https://socialify.git.ci/zukahai/confess-crush/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
 <hr>
 
