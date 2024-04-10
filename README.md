@@ -54,21 +54,26 @@ Sau khi chỉnh sửa xong bạn nhớ ấn và0 đây để lưu lại nhé.
 
 ### Bước 4: Tạo trang web
 
-***Lưu ý: Phân này có thể bị cập nhật thường xuyên, nếu bạn vẫn chưa làm được có thể xem video hướng dẫn để dễ thực hiện hơn***
+Đầu tiên các bạn truy cập: https://vercel.com/login
 
-Để có thể xem cũng như đưa trang web của bạn cho người khác xem, bạn cần làm như sau. </br>
-Đầu tiên chuyển sang phần setting bằng cách bấm và setting như hình dưới:
-<p align="center"> <img src="/imagesGithub/5.png" alt="setting" /> </p>
+Chọn đăng nhập bằng github:
 
-Tại đó hãy chọn mục pages
-<p align="center"> <img src="/imagesGithub/6.png" alt="setting" /> </p>
-Tại mục branch chọn Main và bấm save để lưu lại:
-<p align="center"> <img src="/imagesGithub/7.png" alt="setting" /> </p>
-Lúc này đương link của bạn sẽ hiện lên tương tự như thế này.
-<p align="center"> <img src="/imagesGithub/8.png" alt="setting" /> </p>
-Bấm vào đường link, tại lại trang liên tục đến khi trang hoặc động nhé (Bạn cần chờ khoảng 2 phút) </br>
-Nếu bạn chờ lâu quá mà trang web không hoặc động bạn có thể thêm chữ index.html phía sau đương link như thế này:
-<p align="center"> <img src="/imagesGithub/9.png" alt="setting" /> </p>
+<p align="center"> <img src="/imagesGithub/vercel1.png" alt="support" /> </p>
+
+Sau khi đăng nhập, tại giao diện chính, bấm nút **Add New**, chọn **Project**
+
+<p align="center"> <img src="/imagesGithub/vercel2.png" alt="support" /> </p>
+
+Bấm **import** bên phải **Confress-Crush** như trong hình:
+
+<p align="center"> <img src="/imagesGithub/vercel3.png" alt="support" /> </p>
+
+Chọn **Deploy** và chờ khoảng 1 phút để trang web của bạn được tạo.
+
+<p align="center"> <img src="/imagesGithub/vercel4.png" alt="support" /> </p>
+
+Sau khi xuất hiện như hình dưới thì chúc mừng bạn đã tạo trang web thành công. Bấm vào theo như hình để lấy link trang web của bạn.
+<p align="center"> <img src="/imagesGithub/vercel5.png" alt="support" /> </p>
 
 <hr>
 
