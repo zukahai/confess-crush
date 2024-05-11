@@ -2,10 +2,10 @@
     titleWeb: "LOVE OR NOT",
     introTitle: 'Dieuhandsome',
     introDesc: 'Tên người yêu bạn',
-    introDesc: `i just wanna say<br>
-if you need me<br>
-im here.<br>
-but if you don't ..<br>
+    introDesc: `I just wanna say.
+If you need me.
+Im here.
+But if you don't ...
 I'm still here
 waiting  for you `,
     
