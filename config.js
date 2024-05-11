@@ -11,15 +11,15 @@ waiting  for you `,
     
     
     btnIntro: '^^HiHi^^',
-    title: 'Hằng  ơi Hằng có thích tôi k  🥰',
+    title: 'Hương ơi ,Hương có thích tôi k  🥰',
     desc: ' ',
     btnYes: 'Em thích a Diệu lắm  <33',
     btnNo: 'Không , mơ đi :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu mình anh <3',
+    question: 'Tại sao hay đòi ngủ với anh khác quá vậy🙂 ,,<3',
     btnReply: 'Gửi <3',
-    reply: 'Vì a Diệu qúa  tuyệt vời  <33333333',
-    mess: 'Anh biết mà 🥰. Nhưng không sao a chịu thiệt yêu em được  😘😘',
-    messDesc: 'Tối nay a qua đón đi chơi nha.',
+    reply: 'Em xin lỗi , từ giờ em chỉ muốn ngủ với mình anh thôi ❤️<33333333',
+    mess: 'Anh biết mà  😘😘',
+    messDesc: 'Cho tôi fb đi .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/anhchang.nobita.5' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
